@@ -3,3 +3,10 @@ npm i express cors dotenv hpp helmet
 npm i mongoose moment
 
 npm i @babel/cli @babel/core @babel/nodw @babel/preset-env babel-loader @babel/polyfill -D
+
+## 클라이언트
+npx create-react-app .
+npm i redux react-redux redux-saga react-router-dom connected-react-router bootstrap reactstrap dotenv
+
+sagas는 보통 작동 함수들이 정리되어 있으며
+reducer에는 상태를 관리한다. 두가지가 함께 work
