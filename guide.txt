@@ -13,3 +13,13 @@ sagas는 보통 작동 함수들이 정리되어 있으며
 reducer에는 상태를 관리한다. 두가지가 함께 work
 
 App.js 에 <ConnectedRouter history={history}> 의 사용원리 알아보기
+
+
+https://ckeditor.com/docs/ckeditor5/latest/installation/frameworks/react.html
+## ckeditor 5 사용법
+
+react cra eject ( CRA를 모두 풀어준다? )
+한번 풀어주면 버전관리를 각 라이브러리대로 관리를 해줘야한다, 자주 사용하지 않지만
+ckeditor 5 와 같은 특수 라이브러리를 사용할때 사용한다.
+
+npm run eject
